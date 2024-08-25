@@ -1,0 +1,13 @@
+{
+  "itemGroup.kijinmod" : "KijinMod",
+
+  "item.kijinmod.kijin_ingod" : "緋桜色金の魂",
+
+  "item.kijinmod.kijin_pickaxe" : "鬼神のツルハシ",
+
+  "item.kijinmod.kijin_gun" : "鬼ヶ島【二式】",
+  "item.kijinmod.kijin_ammo" : "鬼神弾",
+
+  "key.category.kijinmod" : "KIJIN Mod",
+  "key.kijinmod.mode_change" : "ScopeMode"
+}

@@ -1,0 +1,13 @@
+{
+  "itemGroup.kijinmod" : "KijinMod",
+
+  "item.kijinmod.kijin_ingod" : "Kijin InGOD",
+
+  "item.kijinmod.kijin_pickaxe" : "Kijin Pickaxe",
+
+  "item.kijinmod.kijin_gun" : "OniGaShimaⅡ",
+  "item.kijinmod.kijin_ammo" : "KijinAmmo",
+
+  "key.category.kijinmod" : "KIJIN Mod",
+  "key.kijinmod.mode_change" : "ScopeMode"
+}
