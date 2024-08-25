@@ -1,0 +1,21 @@
+{
+  "itemGroup.gunmod" : "SakuraGunMod",
+
+  "item.gunmod.sakura_ingod" : "SakuraInGOD",
+  "item.gunmod.kijin_gun" : "OniGaShimaⅡ",
+  "item.gunmod.kijin_gun_barrel" : "OniGaShimaⅡ(barrel)",
+  "item.gunmod.kijin_gun_body" : "OniGaShimaⅡ(body)",
+  "item.gunmod.kijin_gun_stock" : "OniGaShimaⅡ(stock)",
+  "item.gunmod.kijin_powder" : "KijinGunPowder",
+  "item.gunmod.kijin_ammo" : "KijinAmmo",
+
+  "advancements.gunmod.root.title": "SakuraGunMod！",
+  "advancements.gunmod.root.description": "Start!",
+  "advancements.gunmod.sakura_ingod.title": "Legendary metal!?",
+  "advancements.gunmod.sakura_ingod.description": "Got SakuraInGOD",
+  "advancements.gunmod.kijin_gun.title": "Ancient Weapons!",
+  "advancements.gunmod.kijin_gun.description": "Revived OniGaShimaⅡ!",
+
+  "key.category.gunmod" : "SakuraGunMod",
+  "key.gunmod.scope" : "ScopeMode"
+}

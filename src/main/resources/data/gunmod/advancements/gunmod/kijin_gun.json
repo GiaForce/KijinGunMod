@@ -1,0 +1,38 @@
+{
+  "parent": "gunmod:gunmod/sakura_ingod",
+  "display": {
+    "icon": {
+      "item": "gunmod:kijin_gun"
+    },
+    "title": {
+      "translate": "advancements.gunmod.kijin_gun.title",
+      "color": "blue",
+      "bold": true
+    },
+    "description": {
+      "translate": "advancements.gunmod.kijin_gun.description",
+      "color": "red",
+      "bold": true
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "kijin_gun": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "gunmod:kijin_gun"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "kijin_gun"
+    ]
+  ]
+}

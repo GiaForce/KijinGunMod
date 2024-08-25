@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "minecraft:iron_ingot"
+    },
+    "result": "gunmod:sakura_ingod",
+    "experience": 1.4,
+    "cookingtime": 200
+}

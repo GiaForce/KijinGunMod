@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#FA"
+    ],
+    "key": {
+        "#": {
+            "item": "gunmod:kijin_gun_stock"
+        },
+        "F": {
+            "item": "gunmod:kijin_gun_body"
+        },
+        "A": {
+            "item": "gunmod:kijin_gun_barrel"
+        }
+    },
+    "result": {
+        "item": "gunmod:kijin_gun",
+        "count": 1
+    }
+}

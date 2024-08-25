@@ -1,0 +1,32 @@
+{
+    "parent": "minecraft:recipes/root",
+    "rewards": {
+        "recipes": [
+            "gunmod:kijin_gun_body"
+        ]
+    },
+    "criteria": {
+        "has_sakura_ingod": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "gunmod:sakura_ingod"
+                    }
+                ]
+            }
+        },
+        "has_the_recipe": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "gunmod:kijin_gun_body"
+            }
+        }
+    },
+    "requirements": [
+        [
+            "has_sakura_ingod",
+            "has_the_recipe"
+        ]
+    ]
+}

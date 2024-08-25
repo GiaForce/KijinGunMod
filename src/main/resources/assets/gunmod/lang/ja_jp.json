@@ -1,0 +1,21 @@
+{
+  "itemGroup.gunmod" : "SakuraGunMod",
+
+  "item.gunmod.sakura_ingod" : "緋桜色金の魂",
+  "item.gunmod.kijin_gun" : "鬼ヶ島【二式】",
+  "item.gunmod.kijin_gun_barrel" : "鬼ヶ島【二式】(barrel)",
+  "item.gunmod.kijin_gun_body" : "鬼ヶ島【二式】(body)",
+  "item.gunmod.kijin_gun_stock" : "鬼ヶ島【二式】(stock)",
+  "item.gunmod.kijin_powder" : "鬼神火薬",
+  "item.gunmod.kijin_ammo" : "鬼神弾",
+
+  "advancements.gunmod.root.title": "SakuraGunMod！",
+  "advancements.gunmod.root.description": "Start!",
+  "advancements.gunmod.sakura_ingod.title": "Legendary metal!?",
+  "advancements.gunmod.sakura_ingod.description": "Got SakuraInGOD",
+  "advancements.gunmod.kijin_gun.title": "Ancient Weapons!",
+  "advancements.gunmod.kijin_gun.description": "Revived OniGaShimaⅡ!",
+
+  "key.category.gunmod" : "SakuraGunMod",
+  "key.gunmod.scope" : "ScopeMode"
+}

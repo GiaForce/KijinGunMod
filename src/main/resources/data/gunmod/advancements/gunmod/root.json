@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "gunmod:kijin_gun"
+    },
+    "title": {
+      "translate": "advancements.gunmod.root.title",
+      "color": "blue"
+    },
+    "description": {
+      "translate": "advancements.gunmod.root.description",
+      "color": "red"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "background": "gunmod:textures/block/kijin_block.png"
+  },
+  "criteria": {
+    "crafting_table": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:crafting_table"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "crafting_table"
+    ]
+  ]
+}

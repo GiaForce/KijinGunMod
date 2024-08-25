@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#i",
+        "_ "
+    ],
+    "key": {
+        "#": {
+            "tag": "minecraft:planks"
+        },
+        "i": {
+            "item": "gunmod:sakura_ingod"
+        },
+        "_": {
+            "tag": "minecraft:wooden_slabs"
+        }
+    },
+    "result": {
+        "item": "gunmod:kijin_gun_stock",
+        "count": 1
+    }
+}

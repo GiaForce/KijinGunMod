@@ -1,0 +1,38 @@
+{
+  "parent": "gunmod:gunmod/root",
+  "display": {
+    "icon": {
+      "item": "gunmod:sakura_ingod"
+    },
+    "title": {
+      "translate": "advancements.gunmod.sakura_ingod.title",
+      "color": "blue",
+      "bold": true
+    },
+    "description": {
+      "translate": "advancements.gunmod.sakura_ingod.description",
+      "color": "red",
+      "bold": true
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "sakura_ingod": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "gunmod:sakura_ingod"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "sakura_ingod"
+    ]
+  ]
+}

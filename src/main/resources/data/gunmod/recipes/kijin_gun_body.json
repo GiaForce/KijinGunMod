@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "iii",
+        "FC_"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:glass"
+        },
+        "i": {
+            "item": "gunmod:sakura_ingod"
+        },
+        "F": {
+            "item": "minecraft:flint_and_steel"
+        },
+        "C": {
+            "item": "minecraft:chest"
+        },
+        "_": {
+            "tag": "minecraft:wooden_slabs"
+        }
+    },
+    "result": {
+        "item": "gunmod:kijin_gun_body",
+        "count": 1
+    }
+}

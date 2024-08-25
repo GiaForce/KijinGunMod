@@ -1,0 +1,32 @@
+{
+    "parent": "minecraft:recipes/root",
+    "rewards": {
+        "recipes": [
+            "gunmod:kijin_ammo"
+        ]
+    },
+    "criteria": {
+        "has_kijin_powder": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "gunmod:kijin_powder"
+                    }
+                ]
+            }
+        },
+        "has_the_recipe": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "gunmod:kijin_ammo"
+            }
+        }
+    },
+    "requirements": [
+        [
+            "has_kijin_powder",
+            "has_the_recipe"
+        ]
+    ]
+}

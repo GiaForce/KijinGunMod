@@ -1,0 +1,32 @@
+{
+    "parent": "minecraft:recipes/root",
+    "rewards": {
+        "recipes": [
+            "gunmod:sakura_ingod"
+        ]
+    },
+    "criteria": {
+        "has_iron_ingot": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:iron_ingot"
+                    }
+                ]
+            }
+        },
+        "has_the_recipe": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "gunmod:sakura_ingod"
+            }
+        }
+    },
+    "requirements": [
+        [
+            "has_iron_ingot",
+            "has_the_recipe"
+        ]
+    ]
+}
